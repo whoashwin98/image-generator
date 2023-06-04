@@ -38,7 +38,7 @@
 1. Get a free API Key at [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) and setup a MongoDB Atlas Cluster.
 2. Clone the repo
    ```sh
-   git clone [https://github.com/ash1802/news-weather-app.git]
+   git clone [https://github.com/ash1802/image-generator.git]
    ```
 3. Install NPM packages
    ```sh
